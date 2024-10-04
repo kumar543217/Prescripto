@@ -1,9 +1,12 @@
 import React from 'react'
 
 const MyAppointments = () => {
+
+  
+
   return (
     <div>
-     my appointment 
+   my appointment
     </div>
   )
 }
