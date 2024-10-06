@@ -9,7 +9,6 @@ const Doctors = () => {
   const navigate = useNavigate()
 
   const { doctors } = useContext(AppContext)
-  console.log(filterDoc);
 
   const applyFilter = () => {
     if (speciality) {
